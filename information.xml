@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="styles.xsl"?>
+
+<anime>
+
+<characters>
+<name>Naruto</name>
+<world>Naruto Shipuden</world>
+<age>30</age>
+<power>Chackra</power>
+<img>./img/Naruto.jpg</img>
+</characters>
+
+
+<characters>
+<name>Goku</name>
+<world>Dragonballs</world>
+<age>40</age>
+<power>Ki</power>
+<img>./img/Goku.jpg</img>
+</characters>
+
+
+<characters>
+<name>Luffy</name>
+<world>OnePiece</world>
+<age>20</age>
+<power>Devil Fruit</power>
+<img>./img/Luffyyy.jpg</img>
+</characters>
+
+
+<characters>
+<name>Doraemon</name>
+<world>Doraemon</world>
+<age>60</age>
+<power>Gadyet</power>
+<img>./img/Doraemon.jpg</img>
+</characters>
+
+
+
+<characters>
+<name>Boruto</name>
+<world>Boruto</world>
+<age>17</age>
+<power>Otsusuki Chackra</power>
+<img>./img/Boruto.jpg</img>
+</characters>
+
+<characters>
+<name>Hayashite</name>
+<world>Golden Boyy</world>
+<age>23</age>
+<power>High IQ</power>
+<img>./img/golden.jpg</img>
+</characters>
+
+
+<characters>
+<name>Ginpachi</name>
+<world>Gintama</world>
+<age>29</age>
+<power>Random IQ</power>
+<img>./img/Gintama.jpg</img>
+</characters>
+
+
+
+</anime>
+
+
